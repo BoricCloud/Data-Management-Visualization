@@ -1,0 +1,12 @@
+spotipy
+tqdm
+pymongo
+bson
+langdetect
+lyricsgenius
+regex
+wikipedia
+bs4
+urllib3
+requests
+editdistance
